@@ -6,7 +6,7 @@
 var showImg = new zoom({
       "id": ".showImg",
       "appendId": ".zoomAll",
-      "appendBg": #fff,
+      "appendBg": "#fff",
       "multiple": 2,
       "showWidth": 470,
       "background": "rgba(255,255,255,0.5)",
