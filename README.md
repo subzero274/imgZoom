@@ -1,7 +1,7 @@
 # imgZoom
 ###可带背景颜色的图片放大插件
 * 实例地址：http://www.byfan.cn/m/shirt/detail.html?act_id=241
->调用方法
+* 调用方法
 ```javascript
 var showImg = new zoom({
       "id": ".showImg",
